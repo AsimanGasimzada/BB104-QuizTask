@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\BB104-QuizTask\\BB104-QuizTask\\BB104-QuizTask.csproj",
+      "projectUniqueName": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BB104-QuizTask\\BB104-QuizTask\\BB104-QuizTask.csproj",
       "projectName": "BB104-QuizTask",
-      "projectPath": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\BB104-QuizTask\\BB104-QuizTask\\BB104-QuizTask.csproj",
+      "projectPath": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BB104-QuizTask\\BB104-QuizTask\\BB104-QuizTask.csproj",
       "packagesPath": "C:\\Users\\Ulvi Abdullazada\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\BB104-QuizTask\\BB104-QuizTask\\obj\\",
+      "outputPath": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BB104-QuizTask\\BB104-QuizTask\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

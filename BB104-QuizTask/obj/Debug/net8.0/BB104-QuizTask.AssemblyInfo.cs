@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BB104-QuizTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ab8e4ee7d5def64ec26cb8dd4484af1dc49ee39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c11198650504068dca77d392c0ce52bd54e70877")]
 [assembly: System.Reflection.AssemblyProductAttribute("BB104-QuizTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BB104-QuizTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\BB104-QuizTask\\",
+  "WorkspaceRootPath": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BB104-QuizTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{874A12B7-7446-4E84-B76F-C47CB20BFD42}|BB104-QuizTask\\BB104-QuizTask.csproj|c:\\users\\ulvi abdullazada\\desktop\\bp110\\bb104-quiztask\\bb104-quiztask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{874A12B7-7446-4E84-B76F-C47CB20BFD42}|BB104-QuizTask\\BB104-QuizTask.csproj|c:\\users\\ulvi abdullazada\\desktop\\bb104-quiztask\\bb104-quiztask\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874A12B7-7446-4E84-B76F-C47CB20BFD42}|BB104-QuizTask\\BB104-QuizTask.csproj|solutionrelative:bb104-quiztask\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874A12B7-7446-4E84-B76F-C47CB20BFD42}|BB104-QuizTask\\BB104-QuizTask.csproj|c:\\users\\ulvi abdullazada\\desktop\\bb104-quiztask\\bb104-quiztask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{874A12B7-7446-4E84-B76F-C47CB20BFD42}|BB104-QuizTask\\BB104-QuizTask.csproj|solutionrelative:bb104-quiztask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{874A12B7-7446-4E84-B76F-C47CB20BFD42}|BB104-QuizTask\\BB104-QuizTask.csproj|c:\\users\\ulvi abdullazada\\desktop\\bp110\\bb104-quiztask\\bb104-quiztask\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{874A12B7-7446-4E84-B76F-C47CB20BFD42}|BB104-QuizTask\\BB104-QuizTask.csproj|solutionrelative:bb104-quiztask\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{874A12B7-7446-4E84-B76F-C47CB20BFD42}|BB104-QuizTask\\BB104-QuizTask.csproj|c:\\users\\ulvi abdullazada\\desktop\\bb104-quiztask\\bb104-quiztask\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874A12B7-7446-4E84-B76F-C47CB20BFD42}|BB104-QuizTask\\BB104-QuizTask.csproj|solutionrelative:bb104-quiztask\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{874A12B7-7446-4E84-B76F-C47CB20BFD42}|BB104-QuizTask\\BB104-QuizTask.csproj|c:\\users\\ulvi abdullazada\\desktop\\bp110\\bb104-quiztask\\bb104-quiztask\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{874A12B7-7446-4E84-B76F-C47CB20BFD42}|BB104-QuizTask\\BB104-QuizTask.csproj|solutionrelative:bb104-quiztask\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{874A12B7-7446-4E84-B76F-C47CB20BFD42}|BB104-QuizTask\\BB104-QuizTask.csproj|c:\\users\\ulvi abdullazada\\desktop\\bp110\\bb104-quiztask\\bb104-quiztask\\variant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{874A12B7-7446-4E84-B76F-C47CB20BFD42}|BB104-QuizTask\\BB104-QuizTask.csproj|solutionrelative:bb104-quiztask\\variant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{874A12B7-7446-4E84-B76F-C47CB20BFD42}|BB104-QuizTask\\BB104-QuizTask.csproj|c:\\users\\ulvi abdullazada\\desktop\\bb104-quiztask\\bb104-quiztask\\bb104-quiztask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{874A12B7-7446-4E84-B76F-C47CB20BFD42}|BB104-QuizTask\\BB104-QuizTask.csproj|solutionrelative:bb104-quiztask\\bb104-quiztask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Quiz.cs",
-              "DocumentMoniker": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\BB104-QuizTask\\BB104-QuizTask\\Quiz.cs",
-              "RelativeDocumentMoniker": "BB104-QuizTask\\Quiz.cs",
-              "ToolTip": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\BB104-QuizTask\\BB104-QuizTask\\Quiz.cs*",
-              "RelativeToolTip": "BB104-QuizTask\\Quiz.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BB104-QuizTask\\BB104-QuizTask\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "BB104-QuizTask\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BB104-QuizTask\\BB104-QuizTask\\Models\\Student.cs*",
+              "RelativeToolTip": "BB104-QuizTask\\Models\\Student.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T09:02:18.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Question.cs",
-              "DocumentMoniker": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\BB104-QuizTask\\BB104-QuizTask\\Question.cs",
-              "RelativeDocumentMoniker": "BB104-QuizTask\\Question.cs",
-              "ToolTip": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\BB104-QuizTask\\BB104-QuizTask\\Question.cs",
-              "RelativeToolTip": "BB104-QuizTask\\Question.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T09:00:31.479Z",
+              "WhenOpened": "2025-04-02T09:25:26.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Variant.cs",
-              "DocumentMoniker": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\BB104-QuizTask\\BB104-QuizTask\\Variant.cs",
-              "RelativeDocumentMoniker": "BB104-QuizTask\\Variant.cs",
-              "ToolTip": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\BB104-QuizTask\\BB104-QuizTask\\Variant.cs",
-              "RelativeToolTip": "BB104-QuizTask\\Variant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T08:57:42.474Z",
+              "Title": "BB104-QuizTask",
+              "DocumentMoniker": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BB104-QuizTask\\BB104-QuizTask\\BB104-QuizTask.csproj",
+              "RelativeDocumentMoniker": "BB104-QuizTask\\BB104-QuizTask.csproj",
+              "ToolTip": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BB104-QuizTask\\BB104-QuizTask\\BB104-QuizTask.csproj",
+              "RelativeToolTip": "BB104-QuizTask\\BB104-QuizTask.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-02T09:20:21.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BB104-QuizTask\\BB104-QuizTask\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "BB104-QuizTask\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BB104-QuizTask\\BB104-QuizTask\\Models\\Person.cs",
+              "RelativeToolTip": "BB104-QuizTask\\Models\\Person.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowC0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T09:20:32.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\BB104-QuizTask\\BB104-QuizTask\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BB104-QuizTask\\BB104-QuizTask\\Program.cs",
               "RelativeDocumentMoniker": "BB104-QuizTask\\Program.cs",
-              "ToolTip": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BP110\\BB104-QuizTask\\BB104-QuizTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Ulvi Abdullazada\\Desktop\\BB104-QuizTask\\BB104-QuizTask\\Program.cs",
               "RelativeToolTip": "BB104-QuizTask\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T08:57:25.332Z",
               "EditorCaption": ""

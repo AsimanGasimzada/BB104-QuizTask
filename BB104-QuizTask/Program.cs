@@ -1,33 +1,77 @@
-﻿namespace BB104_QuizTask
+﻿using BB104_QuizTask.Models;
+
+namespace BB104_QuizTask
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Variant variant1 = new Variant("4", true);
-            Variant variant2 = new Variant("1");
-            Variant variant3 = new Variant("2");
-            Variant variant4 = new Variant("3");
 
-            Variant variant5 = new Variant("Salam");
-            Variant variant6 = new Variant("1");
-            Variant variant7 = new Variant("2", true);
-            Variant variant8 = new Variant("3");
+            Student[] Students = [];
 
-            Variant[] variants1 = [variant1, variant2, variant3, variant4];
-            Variant[] variants2 = [variant5, variant6, variant7, variant8];
+            restart:
+
+            Console.WriteLine("1.Studentleri goster");
+            Console.WriteLine("2.Student yarat");
+
+            string input = Console.ReadLine();
 
 
-            Question question1 = new Question("Filin nece ayagi var?", variants1);
-            Question question2 = new Question("Toyugun nece ayagi var?", variants2);
+            switch (input)
+            {
+                case "1":
+                    PrintStudents(Students);
+                    break;
 
-            Question[] questions = [question1, question2];
+                case "2":
+                    Students = CreateStudent(Students);
+                    break;
+
+                default:
+                    Console.WriteLine("Duzgun deyer daxil edin");
+                    break;
+            }
+
+            goto restart;
+
+        }
+
+         static void PrintStudents(Student[] Students)
+        {
+            Console.Clear();
+            foreach (var st in Students)
+            {
+                Console.WriteLine(st);
+            }
+        }
+
+        static Student[] CreateStudent(Student[] Students)
+        {
+            Console.Clear();
+
+            Console.WriteLine("Name daxil edin:");
+            string name = Console.ReadLine();
 
 
-            Quiz quiz = new Quiz("BB104 Quiz", questions);
+            Console.WriteLine("Surname daxil edin");
+            string surname = Console.ReadLine();
+
+            Console.WriteLine("Age daxil edin");
+            int age = int.Parse(Console.ReadLine());
 
 
+            Console.WriteLine("Grade daxil edin");
+            double grade = double.Parse(Console.ReadLine());
 
+
+            Student student = new(name, surname, age, grade);
+
+
+            Array.Resize(ref Students, Students.Length + 1);
+            Students[^1] = student;
+
+            Console.WriteLine("Student ugurla yaradildi");
+            return Students;
         }
     }
 }
